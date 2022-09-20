@@ -1,0 +1,599 @@
+
+*{margin: 0; padding:0; box-sizing: border-box;}
+.body{
+    font-family: source sans pro,sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2c3e50;
+    background-color: lightslategray;
+
+}
+.properties__img{
+
+    background-size: cover;
+    margin-top: -30px;
+}
+
+.navbar-logo{
+    height: 50px;
+    width: 10px;
+}
+.navbar{
+    background: #3531382b;
+    color: #fff;
+
+}
+.h-5{
+    text-decoration-color: gray;
+}
+
+.main_heading1{
+     font-size: 100px;
+     font-weight: bold;
+     padding-top: 80px;
+    /*background-color: red;*/
+
+ }
+.main_heading11{
+    font-size: 70px;
+    /*background-color: red;*/
+
+
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.bg-image1{
+    width: 100%;
+    height: 200px;
+    filter: brightness( 100% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate(
+            0deg );
+    transition-duration: 0.9s;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.elementor img {
+    height: auto;
+    max-width: 100%;
+    border: none;
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+    .elementor-widget-icon-box.elementor-position-left .elementor-icon-box-wrapper {
+
+    }
+.elementor-icon i, .elementor-icon svg {
+    width: 1em;
+    height: 1em;
+    position: relative;
+    display: block;
+}
+.far {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 400;
+}
+.far {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 1;
+}
+.properties__ribon {
+    position: absolute;
+    right: -5px;
+    background: #264bb1;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 3px 15px;
+    font-weight: 600;
+    top: 18px;
+}
+/*start slider form section*/
+.btn-group>.btn:first-child {
+    margin-left: 0;
+    background: rgba(255,255,255,.7);
+    border: 1px solid transparent;
+    box-shadow: none;
+    width: 50px;
+}
+.social-icon {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #264bb1;
+}
+a i {
+    padding: 0 2px;
+}
+
+
+.slider{
+    background-image: url('../img/imgess.jpg');
+    background-size: cover;
+    margin-top: -130px;
+    }
+.form--light {
+    background: rgba(255,255,255,.3);
+    margin-left: -80px;
+}
+.form--banner-sidebar {
+    padding:50px;
+    position: relative;
+    float: left;
+    transition:150ms;
+}
+form{
+    display: block;
+    margin-top: 0em;
+
+}
+body {
+    font-family: source sans pro,sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #2c3e50;
+    background-color: #fff;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+#main .fullwidth-box .fusion-row {
+    padding-left: 0;
+    padding-right: 0;
+}
+.fusion-sep-clear {
+    clear: both;
+    display: block;
+    height: 1px;
+    font-size: 0;
+    line-height: 0;
+    width: 100%;
+    overflow: hidden;
+}
+.fusion-separator.sep-none {
+    height: 1px;
+}
+
+.post-content p {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+
+.margin-features {
+    margin-left: 15px;
+}
+
+
+.feature {
+    margin-bottom: 7px;
+}
+
+img {
+    vertical-align: middle;
+}
+
+.accordion_heading{
+    color: #000;
+}
+
+
+/*end slider form section*/
+#built-up{
+    background-color: #264bb1;
+    color: #264bb1;
+}
+.img-fluid {
+    max-width: 100%;
+    height: 200px;
+}
+
+.text-center1{
+    font-size: x-small;
+}
+.widget__headline{
+    font-size:12px;
+    font-weight: 300;
+    line-height: 2;
+    text-align: center;
+    text-transform: uppercase;
+}
+.widget__title{
+    font-size: 30px;
+    color: #2c3e50;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+.widget__title1{
+    font-size: 25px;
+    color: #2c3e50;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+.widget__text{
+     color: #606e7c;
+
+ }
+
+
+.contacts__column a{
+    color: #264bb1;
+}
+
+    .custom-selector{
+        height: 50px;
+        width: 150px;
+        color: white;
+    }
+.social_icon span{
+    font-size: 60px;
+    color: #FFC312;
+}
+
+.social_icon span:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.card-header h3{
+    color: white;
+}
+/* strat user page*/
+
+/* achievement part*/
+.achievement {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+/*end user page*/
+
+.card-link
+ {
+     color: #264bb1;
+ }
+.card
+{
+   background-color: #f5f5f503;
+}
+
+.card-text{
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+.img-thumbnail1{
+   padding: 15px;
+    width: 200px;
+
+}
+.img-thumbnail{
+    height: 120px;
+    width: 150px;
+    min-height: 150px;
+}
+.site_footer{
+    background-color:#264bb1;
+}
+
+.main_heading{
+background: #264bb1;
+
+   font-size: 18px;
+
+}
+.article__item-header{
+    position: relative;
+    right: auto;
+    width: 50px;
+    float: left;
+}
+.input_search{
+    float: left;
+    padding: 6px;
+    border: 1px;
+    font-size: 17px;
+    height: 10px;
+    width: 50px;
+}
+.gallery_title{
+    font-size: 46px;
+    color: #2c3e50;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: left;
+}
+.price_info{
+    color: #264bb1;
+}
+
+.panel panel-default{
+    color: #264bb1;
+
+}
+.accordion {
+    background-color: #eeeeee17;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .accordion:hover {
+    background-color: #f5f5f503;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+}
+.paragraph{
+color: #606e7c;
+}
+.text_heading{
+    color: #264bb1;
+}
+
+/*register page*/
+
+/* start login page*/
+.bg-img{
+
+    background: url('../img/background-login-3.svg');
+
+    background-size: cover;
+
+    height: 100%;
+
+}
+a:hover{
+    text-decoration: none;
+}
+
+.container{
+    margin-top: 80px;
+    min-height: 604px;
+    height: 700px;
+}
+.login-form{
+    background-color: #264bb1;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.login-form h4{
+    text-align: center;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.login-form svg{
+    color: #264bb1 ;
+    margin-top: -69px;
+    margin-left: 6px;
+}
+.login-form input{
+    padding-left: 30px;
+}
+.login-form input:focus{
+    box-shadow: none !important;
+    border-color: #fff !important;
+}
+.remember-forgot-div{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    color: #fff;
+}
+.remember-forgot-div a{
+
+    color: #fff;
+}
+.form-check-input{
+    margin-top: 2px !important;
+}
+.login-btn{
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.login-btn input{
+    font-weight: 600;
+    background-color: deepskyblue !important;
+    border-color: deepskyblue !important;
+}
+.login-btn input:focus{
+    box-shadow: none !important;
+    border-color: #fec40b !important;
+}
+.sign-up-div{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.sign-up-div a{
+    color: #264bb1 !important;
+    font-weight: 600;
+}
+
+.copyright{
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+}
+/* end  login page*/
+.img_mission{
+    height: 500px;
+    width: 100%;
+    border: #b6d4fe;
+}
+
+
+/* start footer page*/
+footer{
+    background-image: url('../img/foote1.jpg'); ;
+}
+.text-gray{
+    color: gainsboro;
+}
+.p{
+    color: gainsboro;
+}
+.footer-heading{
+    color: #fff;
+}
+.footer-text{
+    font-size: 14px!important;
+    color: grey!important;
+    display: block;
+    background: 0 0;
+    position: relative;
+    top: auto;
+    right: auto;
+    text-align: left;
+    width: auto;
+    padding: 0;
+}
+
+/* start footer page*/
+
+.style{
+    font-size: 20px;
+    font-weight: 500;
+}
+.block{
+    height: 30vh;
+}
+.wow{
+    visibility: hidden;
+}
+.btn{
+    display:block;
+    margin: 30px auto;
+    font-size: 20px;
+}
+.btn .fas{
+
+    font-size: 18px;
+}
+
+.achievement__name {
+    color: #f3bc65;
+    text-transform: uppercase;
+}
+
+.contacts__address-title {
+    border-bottom: 1px solid #d6d6d6;
+    padding: 0 0 12px;
+    margin-bottom: 10px;
+    display: block;
+    font-weight: 600;
+}
+
+
+/* section gosubmit*/
+
+.card-text{
+    font-size: 14px;
+}
+.widget__text1{
+    font-size: 14px;
+    color: #606e7c;
+}
+.video{
+    padding-left: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #ff0000 !important;
+}
+
+.talkteam_image{
+    width:50px;
+    height: 50px;
+}
+
+.p-5{
+   padding-top:  20rem !important;
+padding-bottom: 10rem !important;
+}
+.text-justify{
+    font-size: 18px;
+    color: #000;
+}
+.text-justify1{
+    font-size: 16px;
+    color: #000;
+}
+.section-padding{
+    padding: 50px;
+}
+.text-color{
+    color: red;
+}
+
+    .navbar-expand-lg .navbar-nav {
+        flex-direction: row;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+b, strong {
+        font-weight: 700;
+        padding-left: 15px;
+    }
+.pedding{
+    margin-top: -20px;
+    padding: 20px;
+}
+.bg-color{
+    background-color: #534c4c14;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #ff0000 !important;
+    border-color: #d43f3a;
+
+}
+.text-centerq{
+    padding-right: 40px;
+}
+.section-padding1{
+    padding-left:15px;
+}
+.section-padding11{
+    margin-left:150px;
+    color: red;
+}
