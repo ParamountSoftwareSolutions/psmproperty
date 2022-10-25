@@ -1,0 +1,7 @@
+[
+    {"id": "1","text": "Residential Plots", "value": "-"},
+    {"id": "2","text": "Premium Plots", "value": "2"},
+    {"id": "3","text": "Corner Plots", "value": "3"},
+    {"id": "4","text": "Commercial Plots", "value": "4"},
+    {"id": "5","text": "Villas", "value": "5"}
+]
